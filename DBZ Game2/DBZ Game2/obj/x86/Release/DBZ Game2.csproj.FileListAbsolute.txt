@@ -1,0 +1,16 @@
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Release\Content\LevelUp.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Release\Content\Selection.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Release\Content\timeboost.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Release\Content\Title.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Release\Content\xboost.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Release\Content\pixel.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Release\DBZ Game2.exe.manifest
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Release\DBZ Game2.application
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Release\DBZ Game2.exe
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Release\DBZ Game2.pdb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\obj\x86\Release\DBZ Game2.csprojResolveAssemblyReference.cache
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\obj\x86\Release\DBZ Game2.exe.manifest
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\obj\x86\Release\DBZ Game2.application
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\obj\x86\Release\DBZ Game2.exe
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\obj\x86\Release\DBZ Game2.pdb

@@ -1,0 +1,52 @@
+c:\users\noam\documents\visual studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\obj\x86\Debug\DBZ Game2.csprojResolveAssemblyReference.cache
+c:\users\noam\documents\visual studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\noam\documents\visual studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\DBZ Game2.exe
+c:\users\noam\documents\visual studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\DBZ Game2.pdb
+c:\users\noam\documents\visual studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\obj\x86\Debug\DBZ Game2.exe
+c:\users\noam\documents\visual studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\obj\x86\Debug\DBZ Game2.pdb
+c:\users\noam\documents\visual studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\Content\LevelUp.xnb
+c:\users\noam\documents\visual studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\Content\Selection.xnb
+c:\users\noam\documents\visual studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\Content\timeboost.xnb
+c:\users\noam\documents\visual studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\Content\Title.xnb
+c:\users\noam\documents\visual studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\Content\xboost.xnb
+c:\users\noam\documents\visual studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\Content\pixel.xnb
+E:\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\Content\LevelUp.xnb
+E:\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\Content\Selection.xnb
+E:\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\Content\timeboost.xnb
+E:\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\Content\Title.xnb
+E:\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\Content\xboost.xnb
+E:\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\Content\pixel.xnb
+E:\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\DBZ Game2.exe
+E:\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\DBZ Game2.pdb
+E:\DBZ Game2\DBZ Game2\DBZ Game2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DBZ Game2\DBZ Game2\DBZ Game2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\DBZ Game2\DBZ Game2\DBZ Game2\obj\x86\Debug\DBZ Game2.exe
+E:\DBZ Game2\DBZ Game2\DBZ Game2\obj\x86\Debug\DBZ Game2.pdb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\Content\LevelUp.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\Content\Selection.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\Content\timeboost.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\Content\Title.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\Content\xboost.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\Content\pixel.xnb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\DBZ Game2.exe
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\DBZ Game2.pdb
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\obj\x86\Debug\ResolveAssemblyReference.cache
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\obj\x86\Debug\DBZ Game2.exe
+\\artemis\14nlerner\my documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\obj\x86\Debug\DBZ Game2.pdb
+C:\Users\Noam\Desktop\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\Content\LevelUp.xnb
+C:\Users\Noam\Desktop\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\Content\Selection.xnb
+C:\Users\Noam\Desktop\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\Content\timeboost.xnb
+C:\Users\Noam\Desktop\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\Content\Title.xnb
+C:\Users\Noam\Desktop\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\Content\xboost.xnb
+C:\Users\Noam\Desktop\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\Content\pixel.xnb
+C:\Users\Noam\Desktop\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\DBZ Game2.exe
+C:\Users\Noam\Desktop\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\DBZ Game2.pdb
+C:\Users\Noam\Desktop\DBZ Game2\DBZ Game2\DBZ Game2\obj\x86\Debug\DBZ Game2.csprojResolveAssemblyReference.cache
+C:\Users\Noam\Desktop\DBZ Game2\DBZ Game2\DBZ Game2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Noam\Desktop\DBZ Game2\DBZ Game2\DBZ Game2\obj\x86\Debug\DBZ Game2.exe
+C:\Users\Noam\Desktop\DBZ Game2\DBZ Game2\DBZ Game2\obj\x86\Debug\DBZ Game2.pdb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\DBZ Game2.exe.manifest
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\bin\x86\Debug\DBZ Game2.application
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\obj\x86\Debug\DBZ Game2.exe.manifest
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\DBZ Game2\DBZ Game2\DBZ Game2\obj\x86\Debug\DBZ Game2.application
