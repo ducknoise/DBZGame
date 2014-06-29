@@ -1,5 +1,6 @@
 DBZGame
 =======
+---Please Note: even though I uploaded this 6/28, this is from my earlier days in programming and the code probably shows that. I have improved since this was written.
 
 A healthbar project i started in my first year programming and ended up taking a bit farther.
 There are 4 'worlds' and in each world the has many levels.
